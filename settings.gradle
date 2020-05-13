@@ -1,0 +1,2 @@
+rootProject.name='Folder Sample'
+include ':app'
